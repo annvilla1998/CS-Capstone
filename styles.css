@@ -1,0 +1,64 @@
+.artifact-desc {
+  margin-top: 8px;
+  color: #444;
+  font-size: 0.98em;
+}
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(120deg, #e0fce9 0%, #cfd2f3 100%);
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 40px 36px 32px 36px;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  text-align: center;
+  color: #2a3d66;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+h2 {
+  color: #2a3d66;
+  margin-top: 32px;
+  font-size: 1.5em;
+}
+.self-assessment {
+  background: #f7fafd;
+  border-left: 6px solid #00a365;
+  padding: 24px 24px 16px 24px;
+  border-radius: 8px;
+  margin-bottom: 32px;
+}
+ul.artifacts {
+  list-style: none;
+  padding: 0;
+}
+ul.artifacts li {
+  margin: 22px 0;
+  background: #f0f4fa;
+  border-radius: 6px;
+  padding: 16px 18px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+a {
+  color: #178c2e;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+a:hover {
+  text-decoration: underline;
+}
+.label {
+  font-weight: bold;
+  color: #1e4930;
+}
+.project-link {
+  margin-top: 15px;
+}
